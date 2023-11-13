@@ -50,7 +50,7 @@
 .btn-text {
   background: none;
   border: none;
-  color: inherit;
+  color: var(--very-dark-grayish-blue);
   font-size: inherit;
   font-family: inherit;
   cursor: pointer;
@@ -104,4 +104,8 @@
 
 .checkbox--active .checkbox-icon {
   opacity: 1;
+}
+
+.filter-mobile {
+  display: none;
 }
