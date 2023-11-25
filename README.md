@@ -2,7 +2,7 @@
 
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-**Note**: This solution does not aim to create interactivity / usability of the app, it's just a design implementation. For the interaactive solution please check my todo-app-react solution [here](https://github.com/mihai2537/todo-app-react).
+**Note**: This solution does not aim to create interactivity / usability of the app, it's just a design implementation. For the interactive solution please check my todo-app-react solution [here](https://github.com/mihai2537/todo-app-react).
 
 ## Table of contents
 
@@ -10,11 +10,9 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [Screenshot](#screenshot)
   - [Links](#links)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-**Note**: This solution does not aim to create interactivity / usability of the app, it's just a design implementation. For the interaactive solution please check my todo-app-react solution [here](https://github.com/mihai2537/todo-app-react).
+**Note**: This solution does not aim to create interactivity / usability of the app, it's just a design implementation. For the interactive solution please check my todo-app-react solution [here](https://github.com/mihai2537/todo-app-react).
 
 ### Screenshot
 
